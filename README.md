@@ -1,2 +1,12 @@
-# expense-tracker-java
-Console-based Expense Tracker in Java with CRUD operations and category filtering
+# Expense Tracker (Java)
+
+## Features
+- Add Expense
+- View Expenses
+- Total Calculation
+- Filter by Category
+
+## Tech Used
+- Java
+- ArrayList
+- OOP Concepts
